@@ -1,0 +1,16 @@
+{
+  "name": "187-strassenbande-bot",
+  "version": "1.0.0",
+  "description": "Discord bot pro frakci 187 Strassenbande",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
